@@ -1,0 +1,13 @@
+.products {
+    display: flex;
+    gap: 2.5rem;
+}
+
+.products__image{
+    width: 40%;
+    margin-top:3rem;
+}
+
+.products__image__cover{
+    width: 100%;
+}
